@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseLab5</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="update">Update:</string>
+    <string name="update1">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="products">Products</string>
+</resources>

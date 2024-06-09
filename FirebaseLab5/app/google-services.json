@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985359623981",
+    "project_id": "fir-lab5-6fbf5",
+    "storage_bucket": "fir-lab5-6fbf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985359623981:android:be76ceb1e5561e3b2555a4",
+        "android_client_info": {
+          "package_name": "com.example.firebaselab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgY6Tctzo8VcpqhF6cRQbB4ifatJsS8Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
